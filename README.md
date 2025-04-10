@@ -10,10 +10,10 @@ por mostrar as vendas e o lucro ao decorrer do tempo.
 ### Página 1
 ![image](https://github.com/user-attachments/assets/567c8a30-36c9-4fe2-a0bb-3da9e1e78273)
 
-Observando o gráfico é possivel notar, que o gênero história foi o menos vendido e consequentimente
+Observando o gráfico é possível notar, que o gênero história foi o menos vendido e consequentemente
 o que teve o menor lucro. Já o mais vendido e que teve o maior lucro foi o gênero ficção científica.
 ### Página 2
 ![image](https://github.com/user-attachments/assets/d456f423-a26a-441d-a5a0-30e1cfbc751f)
 
-Observando os dois gráficos percebomos, que o mês de março foi onde as vendas e o lucro foi menor. 
+Observando os dois gráficos percebemos, que o mês de março foi onde as vendas e o lucro foi menor. 
 E que houve uma queda em relação do primeiro ao segundo semestre do ano.
